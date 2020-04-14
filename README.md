@@ -9,7 +9,7 @@ Topics Covered:
     - creating apps with it 
 2. Vue Router Basics
     - Setting up vue router
-    - Difference between Components and vieviews
+    - Difference between Components and views
     - Creating project specific views
     - adding routes to these views
     - Advantages of named routes
@@ -22,7 +22,23 @@ Topics Covered:
         a) Browsers
         b) Servers
         c) the curious case of 404 error not showing
-
+4. Single File Components
+    - Component Anatomy
+    - Nested Components
+    - Global & Scoped Styles
+5. Global Components
+    - Why and when to use
+    - Automatic registration of Global Components.
+    - Create global components
+6.  Slots
+    - Slots basics
+    - Default Slot Contents
+    - Named Slots 
+7.  API calls with Axios
+    - Get started with Axios
+    - Make API calls
+    - Component Lifecycle and when to call APIs
+    - Creating services for API calls for modular apps
 
 ## Project setup
 ```
